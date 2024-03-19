@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @retorrey, coding newbie.
+- 👋 Hi, I’m Reuben, @retorrey, coding newbie.
 - 👀 I’m interested in data science, especially as relates to my interests of education, music, ethical finance, and grassroots organizing.
 - 🌱 I’m currently learning SQL through Codecademy, and jumping into Python soon (very new to coding).
 - 💞️ I’m looking to collaborate on data projects. 
